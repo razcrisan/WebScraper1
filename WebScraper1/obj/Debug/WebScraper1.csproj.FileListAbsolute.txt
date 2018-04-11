@@ -1,0 +1,14 @@
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\bin\Debug\WebScraper1.exe.config
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\bin\Debug\WebScraper1.exe
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\bin\Debug\WebScraper1.pdb
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.csprojResolveAssemblyReference.cache
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.Properties.Resources.resources
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.csproj.GenerateResource.cache
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.csproj.CoreCompileInputs.cache
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.exe
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.pdb
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.csproj.CopyComplete
+C:\Users\Raz\Documents\WebScraper\WebScraper1\WebScraper1\obj\Debug\WebScraper1.NameAndScore.resources
